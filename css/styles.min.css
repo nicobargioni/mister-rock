@@ -31,7 +31,7 @@
     width: 100px !important;
   }
   .streamtv {
-    margin-top: 190px;
+    margin-top: 50px;
   }
 }
 
@@ -94,7 +94,6 @@
 .container-stream {
   width: 450px;
   height: 100vh;
-  border: 5px solid yellow;
   position: absolute;
   z-index: 6;
   right: 0;
