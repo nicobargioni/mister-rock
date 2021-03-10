@@ -5,6 +5,10 @@
   overflow: hidden;
 }
 
+i {
+  color: white;
+}
+
 @media (max-width: 1100px) {
   #carouselExampleSlidesOnly {
     display: none;
